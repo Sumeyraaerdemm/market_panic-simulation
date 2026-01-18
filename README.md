@@ -80,7 +80,6 @@ python simulation.py
 python visualization.py
 
 ## 9. Contribution Statement
-
 Sumeyra Erdem – Mathematical modeling of the stochastic system, parameter design, and theoretical framework
 
 Rumeysa Soydan – Numerical methods implementation, Monte Carlo simulations, data visualization, and documentation assistance
