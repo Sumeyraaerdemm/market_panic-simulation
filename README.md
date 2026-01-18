@@ -79,12 +79,12 @@ python simulation.py
 
 python visualization.py
 
-9. Contribution Statement
+## 9. Contribution Statement
 
 Sumeyra Erdem – Mathematical modeling of the stochastic system, parameter design, and theoretical framework
 
 Rumeysa Soydan – Numerical methods implementation, Monte Carlo simulations, data visualization, and documentation assistance
 
-10. Conclusion
+## 10. Conclusion
 
 This project demonstrates how numerical methods can be used to model complex stochastic systems where analytical solutions are impractical. By combining the Euler method with Monte Carlo simulations, the project provides insight into the dynamics of market panic and highlights the importance of numerical analysis in financial modeling.
